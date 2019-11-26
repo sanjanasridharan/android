@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trip_Planner</string>
+    <string name="hint">Enter the destination</string>
+    <string name="bud">Enter the budget in rupees</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
